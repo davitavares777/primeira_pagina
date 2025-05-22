@@ -1,16 +1,16 @@
 .logotipo{
-    height: 500px;
+    height: 250px;
 }
 
 main{
     background-color:antiquewhite;
-    height: 700px;
-    color:  red;
+    height: 600px;
+    color:  rgb(24, 22, 22);
 }
 footer{
     background-color: khaki;
     height: 300px;
-    color: black;
+    color: rgb(37, 34, 34);
 }
 header{
     background-color: rgb(126, 72, 3);
